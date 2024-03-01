@@ -15,10 +15,12 @@ I'm still creating my own website, I want it to be perfect so stay tuned to see 
 
 # My Projects 🚀
 *Here some of my projects!*<br>
+## 💪 **[nepentha.com] - <a href="https://nepentha.com">WebSite</a>:**
+Website on commission!
 ## 💀 **[Hangman] - <a href="https://gabrielelobosco.github.io/hangman">Demo</a> <a href="https://github.com/gabrielelobosco/hangman">Source</a>:** 
-Just the classic hangman game in pure Javascript, open-source and without any type of sign up required.
+The classic hangman game in pure Javascript, open-source and without any type of sign up required.
 ## 🔤 **[WordleIT] - <a href="https://gabrielelobosco.github.io/WordleIT">Demo</a> <a href="https://github.com/gabrielelobosco/WordleIT">Source</a>:** 
-Just the famous Wordle game but in Italian!
+The famous Wordle game but in Italian!
 ## ⛅ **[Weather Web App] - <a href="https://gabrielelobosco.github.io/Weather-WebApp">Demo</a> <a href="https://github.com/gabrielelobosco/Weather-WebApp">Source</a>:** 
 My first experiment using API (OpenWeatherMap), creating a Weather forecast application, easy to use and user friendly (with a good UI 😎)!
 ### *New projects cooming soon, very soon!*
@@ -34,7 +36,7 @@ My first experiment using API (OpenWeatherMap), creating a Weather forecast appl
 
 ## 📖 Currently studying...
 
-[![My Skills](https://skillicons.dev/icons?i=react,python,kotlin)](https://github.com/gabrielelobosco)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://github.com/gabrielelobosco)
 
 # Let's Connect 🌐
 
