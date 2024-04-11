@@ -5,7 +5,7 @@ My interests span a wide spectrum, from web development to AI and game developme
 
 ## Currently...
 
-### 👷 Working on a **[Website] - <a href="https://gabrielelobosco.github.io/test-et60">ET60.it</a> for a commission! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
+### 👷 Working on **<a href="https://gabrielelobosco.github.io/test-et60">ET60.it</a>** for a commission! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
 ### 🤠 Do you want a Website? Use Fiverr to send me a commission! Link at the bottom or click <a href="https://it.fiverr.com/gabrielelobosco">here</a>
 
 ## Goals and Ambitions 🌟
@@ -17,11 +17,11 @@ I'm still creating my own website, I want it to be perfect so stay tuned to see 
 *Here some of my projects!*<br>
 ## 💪 **[nepentha.com] - <a href="https://nepentha.com">WebSite</a>:**
 Website on commission!
-## 💀 **[Hangman] - <a href="https://gabrielelobosco.github.io/hangman">Demo</a> <a href="https://github.com/gabrielelobosco/hangman">Source</a>:** 
+## 💀 **[Hangman] - <a href="https://gabrielelobosco.github.io/hangman">Demo</a> | <a href="https://github.com/gabrielelobosco/hangman">Source</a>:** 
 The classic hangman game in pure Javascript, open-source and without any type of sign up required.
-## 🔤 **[WordleIT] - <a href="https://gabrielelobosco.github.io/WordleIT">Demo</a> <a href="https://github.com/gabrielelobosco/WordleIT">Source</a>:** 
+## 🔤 **[WordleIT] - <a href="https://gabrielelobosco.github.io/WordleIT">Demo</a> | <a href="https://github.com/gabrielelobosco/WordleIT">Source</a>:** 
 The famous Wordle game but in Italian!
-## ⛅ **[Weather Web App] - <a href="https://gabrielelobosco.github.io/Weather-WebApp">Demo</a> <a href="https://github.com/gabrielelobosco/Weather-WebApp">Source</a>:** 
+## ⛅ **[Weather Web App] - <a href="https://gabrielelobosco.github.io/Weather-WebApp">Demo</a> | <a href="https://github.com/gabrielelobosco/Weather-WebApp">Source</a>:** 
 My first experiment using API (OpenWeatherMap), creating a Weather forecast application, easy to use and user friendly (with a good UI 😎)!
 ### *New projects cooming soon, very soon!*
 
