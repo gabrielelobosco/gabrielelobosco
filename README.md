@@ -28,7 +28,7 @@ My first experiment using API (OpenWeatherMap), creating a Weather forecast appl
 # Skills 🛠️
 
 ## 💻 My coding skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,cs)](https://github.com/gabrielelobosco)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,mysql)](https://github.com/gabrielelobosco)<br>
 
 ## ⚛️ My other skills:
 
