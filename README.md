@@ -5,6 +5,7 @@ My interests span a wide spectrum, from web development to AI and game developme
 
 ## Currently...
 
+### 👷 Working on a website for Arcieri "Le Tre Torri Viggiano" for a commission with ilariablasi and mariagraziacantalicio! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
 ### 👷 Working on **<a href="https://et60.it">ET60.it</a>** for a commission [**<a href="https://gabrielelobosco.github.io/test-et60">Live Demo</a>**]! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
 ### 🤠 Do you want a Website? Use Fiverr to send me a commission! Link at the bottom or click <a href="https://it.fiverr.com/gabrielelobosco">here</a>
 
@@ -28,15 +29,15 @@ My first experiment using API (OpenWeatherMap), creating a Weather forecast appl
 # Skills 🛠️
 
 ## 💻 My coding skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,mysql)](https://github.com/gabrielelobosco)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,c,cpp,cs,mysql)](https://github.com/gabrielelobosco)<br>
 
 ## ⚛️ My other skills:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,unity)](https://github.com/gabrielelobosco)
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,unity,matlab,illustrator)](https://github.com/gabrielelobosco)
 
 ## 📖 Currently studying...
 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://github.com/gabrielelobosco)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,gradle,r,ts)](https://github.com/gabrielelobosco)
 
 # Let's Connect 🌐
 
