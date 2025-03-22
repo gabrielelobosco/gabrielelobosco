@@ -1,7 +1,7 @@
 # Ciao a tutti! 🤙
 
-Hi there! I'm Gabriele, a 19-year-old passionate about computer science. 🚀 My home is Italy, and I'm about to embark on my journey into the world of computer science by starting my studies in Computer Science and Technology.
-My interests span a wide spectrum, from web development to AI and game development
+Hi there! I'm Gabriele, a 20-year-old passionate about computer science. 🚀 My home is Italy, and I'm currently studying Computer Science at Università degli Studi della Basilicata.
+My interests span a wide spectrum, from web and software development to algorithms and AI. I'm curious about any type of CS topic.
 
 ## Currently...
 
