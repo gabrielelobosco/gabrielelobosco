@@ -1,12 +1,12 @@
 # Ciao a tutti! 🤙
 
-Hi there! I'm Gabriele, a 20-year-old passionate about computer science. 🚀 My home is Italy, and I'm currently studying Computer Science at Università degli Studi della Basilicata.
+Hi there! I'm Gabriele, a 21-year-old passionate about computer science. 🚀 My home is Italy, and I'm currently studying in my last year of a BSc in Computer Science at Università degli Studi della Basilicata.
 My interests span a wide spectrum, from web and software development to algorithms and AI. I'm curious about any type of CS topic.
 
 ## Currently...
 
 ### 👷 Working on a website for Arcieri "Le Tre Torri Viggiano" for a commission with ilariablasi and mariagraziacantalicio! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
-### 👷 Working on **<a href="https://et60.it">ET60.it</a>** for a commission [**<a href="https://gabrielelobosco.github.io/test-et60">Live Demo</a>**]! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
+### 👷 Working on **<a href="https://et60.it">ET60.it</a>** (commission from a local business) [**<a href="https://gabrielelobosco.github.io/test-et60">Live Demo</a>**]! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
 ### 🤠 Do you want a Website? Use Fiverr to send me a commission! Link at the bottom or click <a href="https://it.fiverr.com/gabrielelobosco">here</a>
 
 ## Goals and Ambitions 🌟
@@ -16,20 +16,23 @@ I'm still creating my own website, I want it to be perfect so stay tuned to see 
 
 # My Projects 🚀
 *Here some of my projects!*<br>
-## 💪 **[nepentha.com] - <a href="https://nepentha.com">WebSite</a>:**
-Website on commission!
+## 💪 **[nepentha.com] - <a href="https://nepentha.com">Website</a>:**
+Website developed for a local business!
 ## 💀 **[Hangman] - <a href="https://gabrielelobosco.github.io/hangman">Demo</a> | <a href="https://github.com/gabrielelobosco/hangman">Source</a>:** 
 The classic hangman game in pure Javascript, open-source and without any type of sign up required.
+
+📌 Built during high school to practice DOM manipulation and basic game logic.
 ## 🔤 **[WordleIT] - <a href="https://gabrielelobosco.github.io/WordleIT">Demo</a> | <a href="https://github.com/gabrielelobosco/WordleIT">Source</a>:** 
-The famous Wordle game but in Italian!
+The famous Wordle game, adapted for Italian! (Still fixing a few bugs 🐛)
 ## ⛅ **[Weather Web App] - <a href="https://gabrielelobosco.github.io/Weather-WebApp">Demo</a> | <a href="https://github.com/gabrielelobosco/Weather-WebApp">Source</a>:** 
-My first experiment using API (OpenWeatherMap), creating a Weather forecast application, easy to use and user friendly (with a good UI 😎)!
-### *New projects cooming soon, very soon!*
+My first experiment using APIs (OpenWeatherMap), creating a Weather forecast application, easy to use and user friendly (with a good UI 😎)!
+
+### *New projects coming soon, very soon!*
 
 # Skills 🛠️
 
 ## 💻 My coding skills:
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,c,cpp,cs,mysql)](https://github.com/gabrielelobosco)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,c,cpp,cs,mysql,r)](https://github.com/gabrielelobosco)<br>
 
 ## ⚛️ My other skills:
 
@@ -37,14 +40,14 @@ My first experiment using API (OpenWeatherMap), creating a Weather forecast appl
 
 ## 📖 Currently studying...
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,gradle,r,ts)](https://github.com/gabrielelobosco)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts)](https://github.com/gabrielelobosco)
 
 # Let's Connect 🌐
 
 Want to chat, collaborate, or share cat memes? Feel free to reach out!<br><br>
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/glb_dev) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/gabrielelobosco)
 
-# Others
+# Stats & Support 📊
 
 *My Github Stats!*<br><br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=gabrielelobosco&show_icons=true&theme=dark)
