@@ -40,7 +40,7 @@ My first experiment using APIs (OpenWeatherMap), creating a Weather forecast app
 
 ## 📖 Currently studying...
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ts)](https://github.com/gabrielelobosco)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,python)](https://github.com/gabrielelobosco)
 
 # Let's Connect 🌐
 
