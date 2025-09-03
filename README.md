@@ -16,7 +16,7 @@ I'm still creating my own website, I want it to be perfect so stay tuned to see 
 
 # My Projects 🚀
 *Here some of my projects!*<br>
-## 👾 **[PyPong] - <a href="https://github.com/gabrielelobosco/PyPong">Game</a>:**
+## 👾 **[PyPong] - <a href="https://github.com/gabrielelobosco/PyPong">Source</a>:**
 The classic pong game, made from scratch using pygame
 ## 💪 **[nepentha.com] - <a href="https://nepentha.com">Website</a>:**
 Website developed for a local business!
