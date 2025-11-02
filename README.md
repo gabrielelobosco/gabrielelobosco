@@ -5,6 +5,7 @@ My interests span a wide spectrum, from web and software development to algorith
 
 ## Currently...
 
+### 👷 Working on a new website for "Geobas" with ilariablasi! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
 ### 👷 Working on a website for Arcieri "Le Tre Torri Viggiano" for a commission with ilariablasi and mariagraziacantalicio! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
 ### 👷 Working on **<a href="https://et60.it">ET60.it</a>** (commission from a local business) [**<a href="https://gabrielelobosco.github.io/test-et60">Live Demo</a>**]! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
 ### 🤠 Do you want a Website? Use Fiverr to send me a commission! Link at the bottom or click <a href="https://it.fiverr.com/gabrielelobosco">here</a>
