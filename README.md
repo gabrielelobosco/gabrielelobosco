@@ -21,12 +21,10 @@ I'm still creating my own website, I want it to be perfect so stay tuned to see 
 The classic pong game, made from scratch using pygame
 ## 💪 **[nepentha.com] - <a href="https://nepentha.com">Website</a>:**
 Website developed for a local business!
+
+📌 Built during high school to practice DOM manipulation, API and basic games logic.
 ## 💀 **[Hangman] - <a href="https://gabrielelobosco.github.io/hangman">Demo</a> | <a href="https://github.com/gabrielelobosco/hangman">Source</a>:** 
 The classic hangman game in pure Javascript, open-source and without any type of sign up required.
-
-📌 Built during high school to practice DOM manipulation and basic game logic.
-## 🔤 **[WordleIT] - <a href="https://gabrielelobosco.github.io/WordleIT">Demo</a> | <a href="https://github.com/gabrielelobosco/WordleIT">Source</a>:** 
-The famous Wordle game, adapted for Italian! (Still fixing a few bugs 🐛)
 ## ⛅ **[Weather Web App] - <a href="https://gabrielelobosco.github.io/Weather-WebApp">Demo</a> | <a href="https://github.com/gabrielelobosco/Weather-WebApp">Source</a>:** 
 My first experiment using APIs (OpenWeatherMap), creating a Weather forecast application, easy to use and user friendly (with a good UI 😎)!
 
@@ -35,15 +33,19 @@ My first experiment using APIs (OpenWeatherMap), creating a Weather forecast app
 # Skills 🛠️
 
 ## 💻 My coding skills:
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,c,cpp,cs,mysql,r)](https://github.com/gabrielelobosco)<br>
-
-## ⚛️ My other skills:
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,unity,matlab,illustrator)](https://github.com/gabrielelobosco)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,c,cpp,cs,sql,r)](https://github.com/gabrielelobosco)<br>
 
 ## 📖 Currently studying...
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,python)](https://github.com/gabrielelobosco)
+[![Studying](https://skillicons.dev/icons?i=kotlin,ts,python,angular,bootstrap)](https://github.com/gabrielelobosco)
+
+## ⚛️ My other skills:
+
+[![My Other Skills](https://skillicons.dev/icons?i=arduino,blender,unity,matlab,illustrator,latex)](https://github.com/gabrielelobosco)
+
+## 🧰 Tools:
+
+[![My Tools](https://skillicons.dev/icons?i=netbeans,vscode,pycharm,androidstudio,sublime,bruno)](https://github.com/gabrielelobosco)
 
 # Let's Connect 🌐
 
