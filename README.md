@@ -33,11 +33,11 @@ My first experiment using APIs (OpenWeatherMap), creating a Weather forecast app
 # Skills 🛠️
 
 ## 💻 My coding skills:
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,c,cpp,cs,sql,r)](https://github.com/gabrielelobosco)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,c,cpp,cs,r)](https://github.com/gabrielelobosco)<br>
 
 ## 📖 Currently studying...
 
-[![Studying](https://skillicons.dev/icons?i=kotlin,ts,python,angular,bootstrap)](https://github.com/gabrielelobosco)
+[![Studying](https://skillicons.dev/icons?i=kotlin,ts,python,angular,bootstrap,postgresql)](https://github.com/gabrielelobosco)
 
 ## ⚛️ My other skills:
 
@@ -45,7 +45,7 @@ My first experiment using APIs (OpenWeatherMap), creating a Weather forecast app
 
 ## 🧰 Tools:
 
-[![My Tools](https://skillicons.dev/icons?i=netbeans,vscode,pycharm,androidstudio,sublime,bruno)](https://github.com/gabrielelobosco)
+[![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,sublime)](https://github.com/gabrielelobosco)
 
 # Let's Connect 🌐
 
