@@ -7,8 +7,7 @@ Visit my <a href="https://gabrielelobosco.com">official website</a>
 
 ## Currently...
 
-### 👷 Working on a website for Arcieri "Le Tre Torri Viggiano" for a commission with ilariablasi and mariagraziacantalicio! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
-### 👷 Working on **<a href="https://et60.it">ET60.it</a>** (commission from a local business) [**<a href="https://gabrielelobosco.github.io/test-et60">Live Demo</a>**]! Follow me on <a href="https://www.instagram.com/glb_dev">instagram</a> to see the result!
+### 👷 Working on **<a href="https://et60.it">ET60.it</a>** (local business)! Follow me to see the result!
 
 ## Goals and Ambitions 🌟
 
@@ -16,15 +15,29 @@ I'm excited to uncover the hidden gems within computer science and find my true 
 I'm still creating my own website, I want it to be perfect so stay tuned to see it (very soon)!
 
 # My Projects 🚀
-*Here some of my projects!*<br>
-## 👾 **[PyPong] - <a href="https://github.com/gabrielelobosco/PyPong">Source</a>:**
-The classic pong game, made from scratch using pygame
-## 💪 **[nepentha.com] - <a href="https://nepentha.com">Website</a>:**
-Website developed for a local business!
-## ⛰️ **[geobas.it] - <a href="https://geobas.it">Website</a>**:
+
+## Commissioned Websites
+📌 Here you can see some of my commissioned projects (usually local businesses)
+
+### 💪 **[nepentha.com] - <a href="https://nepentha.com">Website</a>:**
+Website developed for a local business, handcrafted using TailwindCSS and VanillaJS!
+### 🎯 **[arcieritretorriviggiano.it] - <a href="https://arcieritretorriviggiano.it">Website</a> **
+The "ASD Arcieri Le Tre Torri - Viggiano" official website, using TailwindCSS!
+### ⛰️ **[geobas.it] - <a href="https://geobas.it">Website</a>**:
 The "Associazione Geobas" official website, made with HTML, VanillaJS and TailwindCSS. It's in continous development, with a Quarkus backend still WIP (w/ilariablasi)
 
+## Freetime Experiments
+📌 Some experiments made in my freetime. Here you can find simple games, scripts and a lot more!
+
+### 👾 **[PyPong] - <a href="https://github.com/gabrielelobosco/PyPong">Source</a>:**
+The classic pong game, made from scratch using pygame
+### 🔀 **[PdfMerger] - <a href="https://github.com/gabrielelobosco/pdfMerger">Source</a>:**
+A CLI Script to merge all pdf files in a directory. Very customizable and fast!
+
+
+## First Steps
 📌 Other projects built during high school to practice DOM manipulation, API and basic games logic.
+
 ## 💀 **[Hangman] - <a href="https://gabrielelobosco.github.io/hangman">Demo</a> | <a href="https://github.com/gabrielelobosco/hangman">Source</a>:** 
 The classic hangman game in pure Javascript, open-source and without any type of sign up required.
 ## ⛅ **[Weather Web App] - <a href="https://gabrielelobosco.github.io/Weather-WebApp">Demo</a> | <a href="https://github.com/gabrielelobosco/Weather-WebApp">Source</a>:** 
@@ -35,11 +48,11 @@ My first experiment using APIs (OpenWeatherMap), creating a Weather forecast app
 # Skills 🛠️
 
 ## 💻 My coding skills:
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,c,cpp,cs,r)](https://github.com/gabrielelobosco)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,tailwindcss,js,c,cpp,cs,r)](https://github.com/gabrielelobosco)<br>
 
 ## 📖 Currently studying...
 
-[![Studying](https://skillicons.dev/icons?i=kotlin,ts,python,angular,bootstrap,postgresql)](https://github.com/gabrielelobosco)
+[![Studying](https://skillicons.dev/icons?i=flutter,ts,angular,bootstrap,postgresql)](https://github.com/gabrielelobosco)
 
 ## ⚛️ My other skills:
 
